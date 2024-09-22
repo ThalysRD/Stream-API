@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8594c4e8-30e9-4e86-a6dc-9e6fc31a0c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Desafio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +60,7 @@
     "onboarding.tips.debug.path": "C:/Users/tgbr6/IdeaProjects/Stream APIs/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Desafio7">
-    <configuration name="Desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio3" />
-      <module name="Stream APIs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Desafio8">
     <configuration name="Desafio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio4" />
       <module name="Stream APIs" />
@@ -96,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Desafio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio8" />
+      <module name="Stream APIs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio8" />
         <item itemvalue="Application.Desafio7" />
         <item itemvalue="Application.Desafio6" />
         <item itemvalue="Application.Desafio5" />
         <item itemvalue="Application.Desafio4" />
-        <item itemvalue="Application.Desafio3" />
       </list>
     </recent_temporary>
   </component>
