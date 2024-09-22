@@ -53,7 +53,7 @@
     "onboarding.tips.debug.path": "C:/Users/tgbr6/IdeaProjects/Stream APIs/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Desafio2">
+  <component name="RunManager" selected="Application.Desafio3">
     <configuration name="Desafio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio1" />
       <module name="Stream APIs" />
@@ -68,8 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio3" />
+      <module name="Stream APIs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio3" />
         <item itemvalue="Application.Desafio2" />
         <item itemvalue="Application.Desafio1" />
       </list>
