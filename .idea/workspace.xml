@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8594c4e8-30e9-4e86-a6dc-9e6fc31a0c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Desafio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,8 @@
   "keyToString": {
     "Application.Desafio1.executor": "Run",
     "Application.Desafio10.executor": "Run",
+    "Application.Desafio11.executor": "Run",
+    "Application.Desafio12.executor": "Run",
     "Application.Desafio2.executor": "Run",
     "Application.Desafio3.executor": "Run",
     "Application.Desafio4.executor": "Run",
@@ -63,7 +65,7 @@
     "onboarding.tips.debug.path": "C:/Users/tgbr6/IdeaProjects/Stream APIs/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Desafio12">
+  <component name="RunManager" selected="Application.Desafio13">
     <configuration name="Desafio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio10" />
       <module name="Stream APIs" />
@@ -85,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio8" />
+    <configuration name="Desafio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio13" />
       <module name="Stream APIs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio13" />
         <item itemvalue="Application.Desafio12" />
         <item itemvalue="Application.Desafio11" />
         <item itemvalue="Application.Desafio10" />
         <item itemvalue="Application.Desafio9" />
-        <item itemvalue="Application.Desafio8" />
       </list>
     </recent_temporary>
   </component>
