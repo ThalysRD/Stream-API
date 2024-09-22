@@ -50,20 +50,14 @@
     "Application.Desafio2.executor": "Run",
     "Application.Desafio3.executor": "Run",
     "Application.Desafio4.executor": "Run",
+    "Application.Desafio5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/tgbr6/IdeaProjects/Stream APIs/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Desafio5">
-    <configuration name="Desafio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio1" />
-      <module name="Stream APIs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Desafio6">
     <configuration name="Desafio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio2" />
       <module name="Stream APIs" />
@@ -92,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Desafio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio6" />
+      <module name="Stream APIs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio6" />
         <item itemvalue="Application.Desafio5" />
         <item itemvalue="Application.Desafio4" />
         <item itemvalue="Application.Desafio3" />
         <item itemvalue="Application.Desafio2" />
-        <item itemvalue="Application.Desafio1" />
       </list>
     </recent_temporary>
   </component>
